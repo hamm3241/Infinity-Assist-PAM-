@@ -83,7 +83,7 @@
 	<repositories>
      <repository>
       <id>redhat-ga</id>
-      <url>http://maven.repository.redhat.com/ga/</url>
+      <url>https://maven.repository.redhat.com/ga/</url>
      </repository>
     </repositories>
     <pluginRepositories>
@@ -95,7 +95,7 @@
         <enabled>false</enabled>
       </snapshots>
       <id>redhat-ga</id>
-      <url>http://maven.repository.redhat.com/ga/</url>
+      <url>https://maven.repository.redhat.com/ga/</url>
      </pluginRepository>
     </pluginRepositories>		
 	<build>
